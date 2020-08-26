@@ -1,0 +1,2 @@
+./voiceassist/scripts/activate
+python program.py
